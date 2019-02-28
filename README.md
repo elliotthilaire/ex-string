@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/Elliott Hilaire/ex-string.
+Bug reports and pull requests are welcome on GitHub at https://github.com/elliotthilaire/ex-string.
 
 
 ## License
